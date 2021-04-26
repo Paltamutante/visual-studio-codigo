@@ -1,0 +1,8 @@
+table, th, td{
+    border: 1px solid blue;
+    background-color: aqua;
+    cursor: pointer;
+}
+table, th, td:hover{
+    background-color: yellow;
+}
